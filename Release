@@ -1,0 +1,9 @@
+Origin: Daimond'Repo
+Label: Daimond'Repo
+Suite: stable
+Version: 1.0
+Codename: iOS
+Architecture: iphoneos-arm
+Components: main
+Description: ProtonFile Best Repo for all Packages! Cydia + Sileo + Installer + Zebra! & Saily.
+
